@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Syed Ali</h1>
 <h3 align="center">A passionate Devops Engineer from Pakistan</h3>
 <p align="center">
-  <img alt="Coding Banner" width="800" src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzExMjc4NTgsIm5iZiI6MTczMTEyNzU1OCwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTA5VDA0NDU1OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWMzODVjYjBhNmM5NmU1ZTdlOGYwZjkxYjVkMjJlODMxZDc0NjZkYTg3YmE5NzVhMjEwOTQ4MTg2MWU3YmQwY2QmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.jPGXspOI59YVtZQzyE0_MVSePCs6vIoq_2pa6-2drJY">
+  <img alt="Coding Banner" width="800" src="https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png">
 </p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedali010&label=Profile%20views&color=0e75b6&style=flat" alt="syedali010" /> </p>
 
