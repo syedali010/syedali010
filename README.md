@@ -30,22 +30,6 @@
 2. **[GitOps: Managing Infrastructure with Git](https://medium.com/@i200745/gitops-managing-infrastructure-with-git)**  
    _Published on Sep 7_: This article explores the concept of GitOps, emphasizing the importance of managing infrastructure as code through Git. It covers key practices and tools that allow for efficient, code-centric infrastructure management.
 
-
----
-
-### 🛠️ Sample DevOps Project Repo
-As part of my learning journey, I reviewed and enhanced this **[Sample DevOps Repository](#)**:
-
-- **Jenkins**: Configured robust CI/CD pipeline
-- **Docker**: Containerized applications for platform independence
-- **Kubernetes**: Orchestrated containerized apps for scalable deployment
-
-*Contributions:*
-- Optimized Jenkins configuration for smoother CI/CD
-- Integrated Docker & Kubernetes to enhance scalability and reliability
-
----
-
 ### 📖 DevOps Tools & Concepts
 Here’s a summary of tools I’m currently working with:
 - **CI/CD**: Automation from testing to deployment for faster, reliable releases.
