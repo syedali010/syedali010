@@ -1,5 +1,5 @@
-<h1 align="center">Syed Ali | DevOps Engineer</h1>
-<h3 align="center">Hello 👋, I'm a Passionate DevOps Engineer from Pakistan 🇵🇰</h3>
+<h1 align="center">Syed Ali | Software Engineer</h1>
+<h3 align="center">Hello 👋, I'm a Passionate Software Engineer from Pakistan 🇵🇰</h3>
 
 <p align="center">
   <img alt="Coding Banner" width="800" src="https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png">
