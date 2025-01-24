@@ -14,11 +14,11 @@
 ---
 
 ### 🌟 About Me
-- 🔭 I’m currently working on **VerseAuthentic Project**
-- 🌱 Expanding my skills in **Cloud Services, Kubernetes, and CI/CD Tools**
+- 🔭 I’m currently working on innovative projects across various domains
+- 🌱 Expanding my skills in modern web technologies, cloud computing, and automation
 - 📝 Regular writer on [Medium](https://medium.com/@i200745) sharing insights on DevOps
 - 📫 Reach me at **syedaliupw@gmail.com**
-- 📄 Check out my [Dynamic CV](#)
+  
 
 ---
 
@@ -30,16 +30,14 @@
 2. **[GitOps: Managing Infrastructure with Git](https://medium.com/@i200745/gitops-managing-infrastructure-with-git)**  
    _Published on Sep 7_: This article explores the concept of GitOps, emphasizing the importance of managing infrastructure as code through Git. It covers key practices and tools that allow for efficient, code-centric infrastructure management.
 
-### 📖 DevOps Tools & Concepts
-Here’s a summary of tools I’m currently working with:
-- **CI/CD**: Automation from testing to deployment for faster, reliable releases.
-- **Kubernetes**: Efficient container orchestration for app management.
-- **Docker**: Easy containerization, enabling consistent environments.
-- **AWS & GCP**: Leveraging cloud platforms for scalable infrastructure.
-- **IaC (Terraform)**: Implementing infrastructure as code for repeatable environments.
+### 📖 Skills & Technologies
+Here’s a snapshot of tools and concepts I’m currently working with:
+- **AI & ML**: Leveraging artificial intelligence for smarter applications.
+- **Cloud Platforms**: Proficient in AWS..
+- **DevOps**: Specializing in CI/CD pipelines, containerization with Docker and Kubernetes.
+- **Programming**: Expertise in Python, JavaScript, C++, and C#.
 
 ---
-
 ### 🌐 Connect with Me
 <p align="center">
 <a href="https://linkedin.com/in/syedali" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -51,15 +49,13 @@ Here’s a summary of tools I’m currently working with:
 
 ### 💻 Technologies & Tools
 <p align="center">
-  <!-- Use Shields.io badges for each technology -->
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <!-- Add more badges as needed -->
+  <!-- Add more badges for other technologies -->
 </p>
 
 ---
