@@ -64,5 +64,4 @@ Here’s a snapshot of tools and concepts I’m currently working with:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=syedali010&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=syedali010&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedali010&theme=radical" alt="Streak Stats" />
 </p>
